@@ -1,0 +1,18 @@
+ACKNOWLEDGMENTS
+
+External Sources and Documentation:
+- Train Test Split: What It Means and How to Use It https://builtin.com/data-science/train-test-split
+- Making Prediction and Visualizing Results (https://codesignal.com/learn/courses/training-your-first-machine-learning-model-from-scratch/lessons/making-predictions-and-visualizing-results)
+- Putting Your Forecasting Model to the Test: A Guide to Backtesting (https://towardsdatascience.com/putting-your-forecasting-model-to-the-test-a-guide-to-backtesting-24567d377fb5/)
+- Annotated heatmap (https://matplotlib.org/stable/gallery/images_contours_and_fields/image_annotated_heatmap.html)
+
+
+Libraries Used:
+- pandas: Data manipulation, DataFrame operations, and CSV/TSV file handling
+- numpy: Numerical computations, array operations, linear algebra for portfolio calculations
+- datetime: Date handling for monthly time series data
+
+
+Generative AI Assistance:
+- No Ai assistance. Only google used for resources, documentation used for functions, and included previous jupyter notebooks.
+- No collaboration with other students occurred on this assignment.
